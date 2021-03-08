@@ -23,17 +23,9 @@ I am Web developer able to build a Web presence from the ground up - from concep
 |---|---|---|
 
 ### Github Stats
-<div>
-<a href="https://github.com/kirodriguezke">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kirodriguezke&show_icons=true&count_private=true" />
-</a>
 
-<a href="https://github.com/kirodriguezke/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirodriguezke&layout=compact" />
-</a>
-</div>
 
-<div>
+
  
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -42,7 +34,7 @@ I am Web developer able to build a Web presence from the ground up - from concep
 <a href="mailto:jercdeveloper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jercdeveloper@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-</div>
+
 
 
 
