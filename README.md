@@ -30,7 +30,7 @@ I am Web developer able to build a Web presence from the ground up - from concep
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/jenriquerodriguez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jenriquerodriguez-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jenriquerodriguez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jenriquerodriguez-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:jercdeveloper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jercdeveloper@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
