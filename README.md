@@ -24,10 +24,12 @@ I am Web developer able to build a Web presence from the ground up - from concep
 
 ### Github Stats
 
+![Enrique Rodriguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirodriguezke&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirodriguezke&layout=compact)](https://github.com/kirodriguezke/github-readme-stats)
 
  
-<h3> 🤝🏻 Connect with Me </h3>
+### 🤝🏻 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jenriquerodriguez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jenriquerodriguez-blue?style=flat&logo=linkedin"></a>
